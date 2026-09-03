@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritumishra2006/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3996-even-number-of-knight-moves](https://github.com/Ritumishra2006/LEETCODE/tree/master/3996-even-number-of-knight-moves) |
 | [4001-aggregate-two-time-series](https://github.com/Ritumishra2006/LEETCODE/tree/master/4001-aggregate-two-time-series) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3996-even-number-of-knight-moves](https://github.com/Ritumishra2006/LEETCODE/tree/master/3996-even-number-of-knight-moves) |
 <!---LeetCode Topics End-->
