@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3996-even-number-of-knight-moves](https://github.com/Ritumishra2006/LEETCODE/tree/master/3996-even-number-of-knight-moves) |
 <!---LeetCode Topics End-->
