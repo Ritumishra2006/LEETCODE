@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/Ritumishra2006/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/3993-maximum-value-of-an-alternating-sequence) |
