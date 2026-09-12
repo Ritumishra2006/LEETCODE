@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [4001-aggregate-two-time-series](https://github.com/Ritumishra2006/LEETCODE/tree/master/4001-aggregate-two-time-series) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
@@ -90,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ritumishra2006/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritumishra2006/LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ritumishra2006/LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
