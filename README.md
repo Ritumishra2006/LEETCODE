@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0835-image-overlap) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ritumishra2006/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0835-image-overlap) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritumishra2006/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
