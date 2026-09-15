@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0835-image-overlap) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ritumishra2006/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
+| [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritumishra2006/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String
