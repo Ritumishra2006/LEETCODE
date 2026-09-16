@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritumishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2652-sum-multiples](https://github.com/Ritumishra2006/LEETCODE/tree/master/2652-sum-multiples) |
 | [3870-count-commas-in-range](https://github.com/Ritumishra2006/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ritumishra2006/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
