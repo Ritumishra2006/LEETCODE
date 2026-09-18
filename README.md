@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritumishra2006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Ritumishra2006/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ritumishra2006/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritumishra2006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
