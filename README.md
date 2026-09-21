@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritumishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ritumishra2006/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Ritumishra2006/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Ritumishra2006/LEETCODE/tree/master/2652-sum-multiples) |
 | [3870-count-commas-in-range](https://github.com/Ritumishra2006/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
