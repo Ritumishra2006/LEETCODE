@@ -3,17 +3,16 @@ public:
     vector<int> findErrorNums(vector<int>& nums) {
         int dup = -1;
         int missing = -1;
-        for(int i = 1; i <= nums.size(); i++) {
-            int cnt = 0;
-            for(int j = 0; j < nums.size(); j++) {
-                if(nums[j] == i) {
-                    cnt++;
-                }
-            }
-            if(cnt == 0) {
+        int n = nums.size();
+        vector<int> freq(n+1, 0);
+        for(int i = 0; i < nums.size(); i++) {
+            freq[nums[i]]++;
+        }
+        for(int i = 1; i <= n; i++) {
+            if(freq[i] == 0) {
                 missing = i;
             }
-            if(cnt == 2) {
+            if(freq[i] == 2) {
                 dup = i;
             }
         }
