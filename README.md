@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Ritumishra2006/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Ritumishra2006/LEETCODE/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/Ritumishra2006/LEETCODE/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
