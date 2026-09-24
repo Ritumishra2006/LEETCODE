@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritumishra2006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ritumishra2006/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ritumishra2006/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ritumishra2006/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ritumishra2006/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritumishra2006/LEETCODE/tree/master/0389-find-the-difference) |
