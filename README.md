@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ritumishra2006/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Ritumishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritumishra2006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ritumishra2006/LEETCODE/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Ritumishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ritumishra2006/LEETCODE/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritumishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
