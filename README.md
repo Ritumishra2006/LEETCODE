@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Ritumishra2006/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4001-aggregate-two-time-series](https://github.com/Ritumishra2006/LEETCODE/tree/master/4001-aggregate-two-time-series) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ritumishra2006/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
