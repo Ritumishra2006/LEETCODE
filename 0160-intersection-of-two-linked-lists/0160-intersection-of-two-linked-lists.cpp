@@ -9,17 +9,25 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        //Optimized
         ListNode* p = headA;
-        while(p != NULL) {
         ListNode* q = headB;
-        while(q != NULL) {
-            if(p == q) {
-                return q;
-            }
+        while(p!=q) {
+        if(p == NULL) {
+            p = headB;
+        } else{
+            p = p->next;
+        }
+        if(q == NULL) {
+            q = headA;
+        } else {
             q = q->next;
         }
-        p = p->next;
         }
+        if(p == q) {
+            return p;
+        }
+        
         return NULL;
     }
 };
