@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritumishra2006/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ritumishra2006/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritumishra2006/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Ritumishra2006/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritumishra2006/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ritumishra2006/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Ritumishra2006/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritumishra2006/LEETCODE/tree/master/0389-find-the-difference) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Quicksort
 |  |
