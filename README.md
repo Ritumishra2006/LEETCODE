@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritumishra2006/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritumishra2006/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ritumishra2006/LEETCODE/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ritumishra2006/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritumishra2006/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritumishra2006/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritumishra2006/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ritumishra2006/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quicksort
 |  |
