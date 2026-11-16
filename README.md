@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Ritumishra2006/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ritumishra2006/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ritumishra2006/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritumishra2006/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ritumishra2006/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2469-convert-the-temperature](https://github.com/Ritumishra2006/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ritumishra2006/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ritumishra2006/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ritumishra2006/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Ritumishra2006/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ritumishra2006/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
