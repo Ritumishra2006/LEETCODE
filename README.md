@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ritumishra2006/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritumishra2006/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ritumishra2006/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ritumishra2006/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ritumishra2006/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritumishra2006/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ritumishra2006/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ritumishra2006/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Ritumishra2006/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ritumishra2006/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Ritumishra2006/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ritumishra2006/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ritumishra2006/LEETCODE/tree/master/4014-minimum-total-price-after-applying-discounts) |
