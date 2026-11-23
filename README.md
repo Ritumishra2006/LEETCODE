@@ -239,15 +239,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritumishra2006/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritumishra2006/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritumishra2006/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [1267-count-servers-that-communicate](https://github.com/Ritumishra2006/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritumishra2006/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritumishra2006/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritumishra2006/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritumishra2006/LEETCODE/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ritumishra2006/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
