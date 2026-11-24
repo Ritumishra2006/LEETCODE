@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ritumishra2006/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritumishra2006/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ritumishra2006/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ritumishra2006/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ritumishra2006/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Ritumishra2006/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ritumishra2006/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ritumishra2006/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ritumishra2006/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
